@@ -1,0 +1,21 @@
+.sör-hatter {
+    display: block;
+    margin: 0 auto;
+    max-width: 60%;
+    height: auto;
+    filter: brightness(90%);
+}
+
+nav {
+    max-width: 75%;
+    margin: 0 auto
+}
+
+.card img {
+    filter: brightness(50%);
+    width: 70%;
+}
+
+.közép {
+    text-align: center;
+}
