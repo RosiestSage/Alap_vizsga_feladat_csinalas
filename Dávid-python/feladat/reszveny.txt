@@ -1,0 +1,4 @@
+OTP: 18130 Ft/db
+MOL: 3032 Ft/db
+BIF: 564 Ft/db
+Opus: 383.5 Ft/db
