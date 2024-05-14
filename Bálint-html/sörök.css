@@ -1,3 +1,5 @@
+
+
 .sör-hatter {
     display: block;
     margin: 0 auto;
@@ -11,11 +13,12 @@ nav {
     margin: 0 auto
 }
 
-.card img {
-    filter: brightness(50%);
+.card {
     width: 70%;
+    margin: 0 auto;
 }
 
-.közép {
-    text-align: center;
+.card img {
+    filter: brightness(50%);
+    width: 100%;
 }
