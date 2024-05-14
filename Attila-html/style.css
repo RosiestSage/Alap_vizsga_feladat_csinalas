@@ -1,0 +1,72 @@
+#oldal1{
+    background-image: url(https://cdn.vox-cdn.com/thumbor/zSLL-T__hAjCtdP5_RRsMqWD6UA=/0x11:2225x1263/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/48996273/KC_Deliverance_Sunrise.0.0.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+#oldal2 {
+    background-image: url(https://pbs.twimg.com/media/Dx5JWxMX4AALwGX.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+ }
+ #navbar{
+    background-color: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 0%, 0%, 0%, 0%;
+    border-bottom: 5px solid black ;
+    margin-top: 0px;
+}
+.sajatoldal{
+    color: black;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.masoldal{
+    color: black;
+    text-decoration:none;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.focim{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+}
+.szoveg{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-style: italic;
+}
+.cim{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+}
+.szoveg-kiemelosos{
+    margin: 4% 10% ;
+    background-color: rgba(200, 200, 200, 0.4);
+    padding-bottom: 5px;
+    border-radius: 0.3cm;
+    padding-top: 3px
+}
