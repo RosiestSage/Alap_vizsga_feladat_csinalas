@@ -70,3 +70,19 @@
     border-radius: 0.3cm;
     padding-top: 3px
 }
+.kartya{
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.kartya:hover {
+    transform: scale(103%);
+    transition: .7s;
+    
+  }
+.kartyas-szoveg{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
