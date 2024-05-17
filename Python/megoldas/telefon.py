@@ -1,3 +1,7 @@
+import os 
+
+os.system("cls")
+
 class Telefonszam:
     def __init__(self, nev, telefonszam, munka):
         self.nev = nev
@@ -6,11 +10,15 @@ class Telefonszam:
 
 telefonszamok: list[Telefonszam] = []
 
-for i in range(5):
+allitas = input("Új telefonszám(/ok) felvétele(I/N): ")
+print()
+
+while allitas == "I":
     nev = input('Név: ')
     telefonszam = input("Telefonszám: +36 ")
     munka = input("Céges/Magán: ")
     telefonszamok.append(Telefonszam(nev, telefonszam, munka))
+    allitas = input("Másik telefonszám felvétele(I/N): ")
     print()
 
 for i in range(len(telefonszamok)):
