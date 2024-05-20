@@ -24,14 +24,14 @@ while allitas == "I":
 for i in range(len(telefonszamok)):
     print(f"{telefonszamok[i].nev} telefonszáma: +36 {telefonszamok[i].telefonszam} ami {telefonszamok[i].munka}")
 
-f = open("cegesek.txt", "w", encoding="utf-8")
+f = open("python/feladat/cegesek.txt", "w", encoding="utf-8")
 for t in telefonszamok:
     if t.munka == "Céges":
-        f.write(f"{t.nev}; +36 {t.telefonszam};{t.munka}")
+        f.write(f"{t.nev}; +36 {t.telefonszam};{t.munka}\n")
 f.close()
 
-f = open("magánok.txt", "w", encoding="utf-8")
+f = open("python/feladat/magánok.txt", "w", encoding="utf-8")
 for t in telefonszamok:
     if t.munka == "Magán":
-        f.write(f"{t.nev}; +36 {t.telefonszam};{t.munka}")
+        f.write(f"{t.nev}; +36 {t.telefonszam};{t.munka}\n")
 f.close()
