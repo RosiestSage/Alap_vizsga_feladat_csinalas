@@ -18,6 +18,10 @@ nav {
     padding-left: 20px;
 }
 
+#navbarNav{
+    font-size: 2em;
+}
+
 .card {
     width: 70%;
     margin: 0 auto;
@@ -45,6 +49,8 @@ nav {
 
 #sör-tábla td{
     background-color: #f3efc9;
+    border: 1px solid #ddd;
+    padding: 8px;
 }
 
 #sör-tábla td:hover{
@@ -60,7 +66,7 @@ nav {
 }
 
 ul li{
-    
+    padding-top: 20px;
 }
 
 .keret{
@@ -68,6 +74,10 @@ ul li{
     border-right: 10px solid black;
     border-bottom: 10px solid grey;
     border-top: 10px solid grey;
+}
+
+p a:hover{
+    color: grey;
 }
 
 .row{
