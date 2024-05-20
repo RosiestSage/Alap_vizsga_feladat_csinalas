@@ -19,7 +19,7 @@ nav {
 }
 
 #navbarNav{
-    font-size: 1.7rem;
+    font-size: 2em;
 }
 
 .card {
@@ -38,7 +38,7 @@ nav {
     width: 100%;
     }
 
-#sör-tábla td, #customers th {
+#sör-tábla td {
     border: 1px solid #ddd;
     padding: 8px;
     }
@@ -83,26 +83,18 @@ p a:hover{
     color: grey;
 }
 
-.kép-közép {
-    object-fit: cover;
-}
-
-.row {
+.row{
     display: flex;
     align-items: stretch;
 }
-.elkészítés-kép {
+.elkészítés-kép{
     width: 100%;
     height: auto;
     object-fit: cover;
 }
 
-.elkészítés-elem {
+.elkészítés-elem{
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-
-.nav-link.active {
-    color: #ff5733 !important; /* Az aktív link színe */
 }

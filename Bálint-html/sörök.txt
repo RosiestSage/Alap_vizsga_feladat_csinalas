@@ -1,0 +1,58 @@
+link:
+    https://hu.m.wikipedia.org/wiki/Einbeck
+
+lista elemek:
+    károsítja a májat, az idegrendszert
+    megrövidíti az élettartamot
+    koncentráció csökkenése és a reakcióidő megnövekedése
+
+táblázat elemei:
+    Termék neve
+    Ár (ft / 0,5l)
+    lkoholtartalom (%)
+    edveltségi pontszám (kinézet, íz, keserűség, stb...)
+
+    Steffl
+    429
+    4,2
+    63,4
+
+    Tuborg
+    418
+    4,6
+    52,2
+
+    Borsodi
+    462
+    4,5
+    50,2
+    
+    Rocky Cellar
+    338
+    4,0
+    46,7
+
+    Löwenbräu
+    378
+    4,0
+    45,3
+
+    Arany Ászok
+    429
+    4,3
+    43,4
+
+    Kőbányai
+    378
+    4,3
+    41,8
+
+    Arany Fácán
+    338
+    4,0
+    40,7
+    
+    Soproni
+    467
+    4,5
+    39,3
