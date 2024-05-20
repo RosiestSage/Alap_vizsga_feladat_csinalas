@@ -27,11 +27,11 @@ for i in range(len(telefonszamok)):
 f = open("cegesek.txt", "w", encoding="utf-8")
 for t in telefonszamok:
     if t.munka == "Céges":
-        f.write(f"{t.nev}; +36 {t.telefonszam};{t.munka}")
+        f.write(f"{t.nev}; +36 {t.telefonszam};{t.munka}\n")
 f.close()
 
 f = open("magánok.txt", "w", encoding="utf-8")
 for t in telefonszamok:
     if t.munka == "Magán":
-        f.write(f"{t.nev}; +36 {t.telefonszam};{t.munka}")
+        f.write(f"{t.nev}; +36 {t.telefonszam};{t.munka}\n")
 f.close()
