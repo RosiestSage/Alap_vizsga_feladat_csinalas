@@ -19,7 +19,7 @@ nav {
 }
 
 #navbarNav{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
 }
 
 .card {
@@ -66,4 +66,43 @@ nav {
 
 .jobbra{
     float: right;
+}
+
+ul li{
+    padding-top: 20px;
+}
+
+.keret{
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    border-bottom: 10px solid grey;
+    border-top: 10px solid grey;
+}
+
+p a:hover{
+    color: grey;
+}
+
+.kép-közép {
+    object-fit: cover;
+}
+
+.row {
+    display: flex;
+    align-items: stretch;
+}
+.elkészítés-kép {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.elkészítés-elem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.nav-link.active {
+    color: #ff5733 !important; /* Az aktív link színe */
 }
