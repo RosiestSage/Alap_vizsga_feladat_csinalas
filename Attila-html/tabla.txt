@@ -1,0 +1,23 @@
+    <div class="row justify-content-center">
+    <table class="col-lg-6 col-md-9 col-sm-12">
+        <thead>
+          <tr>
+              <th>év</th>
+              <th>cím</th>
+              <th>publikáló</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2019</td>
+            <td>Kingdom Come: Deliverance</td>
+            <td>Warhorse studios, Deep Silver</td>
+          </tr>
+          <tr>
+              <td>2024 (még nem jött ki)</td>
+              <td>Kingdom Come: Deliverance II.</td>
+              <td>Warhorse studios, Deep Silver</td>
+          </tr>
+        </tbody>
+    </table>
+  </div>
